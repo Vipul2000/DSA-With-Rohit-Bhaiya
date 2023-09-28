@@ -161,6 +161,14 @@ int main(){
      return 0;
 }*/
 
+/*Print this pattern
+5 
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -174,4 +182,4 @@ int main(){
           cout<<endl;
      }
      return 0;
-}
+}*/
